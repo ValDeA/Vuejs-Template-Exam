@@ -1,4 +1,10 @@
-<<<<<<< HEAD
+# Vuejs-Templete-Exam
+ - Templete을 이용한 Vue 프론트 엔드 연습
+ - Vue3 + Vite
+ 
+ 
+ 
+
 # [Vue Soft UI Dashboard](http://demos.creative-tim.com/vue-soft-ui-dashboard/?ref=readme-vsud) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/vue-soft-ui-dashboard&text=Check%20Vue%20Soft%20UI%20Dashboard%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#softdesign%20#vue%20https://www.creative-tim.com/product/vue-soft-ui-dashboard)
 
 ![version](https://img.shields.io/badge/version-3.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/vue-soft-ui-dashboard.svg)](https://github.com/creativetimofficial/vue-soft-ui-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/vue-soft-ui-dashboard.svg)](https://github.com/creativetimofficial/vue-soft-ui-dashboard/issues?q=is%3Aissue+is%3Aclosed)
@@ -206,5 +212,3 @@ Google+: <https://plus.google.com/+CreativetimPage>
 
 Instagram: <https://instagram.com/creativetimofficial>
 =======
-# Vuejs-Templete-Exam-
->>>>>>> f4d073209046a7578ca0312db6bab894425e23fe

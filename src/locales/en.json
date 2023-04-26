@@ -1,0 +1,115 @@
+{
+  "__comment": {
+    "__comment1": "형식은 'component': 'element'로 구성되어 있습니다.",
+    "__comment2": "임시로 해놓은 구성이니, 더 나은 형식이 있다면 수정바랍니다."
+  },
+  "appName": "AS-Cloud",
+  "login": {
+    "info": "SNS 간편 로그인",
+    "kakao": "카카오톡 계정으로 로그인하기",
+    "naver": "네이버 계정으로 로그인하기",
+    "google": "구글 계정으로 로그인하기"
+  },
+  "navBar": {
+    "station": "스테이션",
+    "userId": "유저 아이디",
+    "settings": "설정"
+  },
+  "sideNav": {
+    "List": "리스트",
+    "dashboard": "대시보드",
+    "statistics": "통계/분석",
+
+
+    "Profile": "프로필",
+    "Sign In": "로그인",
+    "Sign Up": "회원 가입"
+  },
+  "deviceList": {
+    "list": "전체 목록",
+    "detailBtn": "상세 보기",
+    "businessType": "업종",
+
+    "deviceAdd": "제품 추가",
+    "deviceDel": "제품 삭제",
+
+    "device": {
+      "serialNumber": "시리얼 번호",
+      "deviceName": "기기 이름",
+      "deviceType": "기기 종류"
+    },
+    "sensor": {
+      "iaq": "실내공기질지수",
+      "vrs": "바이러스위험지수"
+    }
+  },
+  "dashboard": {
+    "detail": "상세 지수",
+
+    "sensor": {
+      "eAQ1100S": {
+        "PM0P1val": "미세부유물 (PM 0.1)",
+        "PM0P3val": "미세부유물 (PM 0.3)",
+        "PM0P5val": "미세부유물 (PM 0.5)",
+        "PM1P0val": "극초미세먼지 (PM 1.0)",
+        "PM2P5val": "초미세먼지 (PM 2.5)",
+        "PM10P0val": "미세먼지 (PM 10)",
+        "CO2val": "이산화탄소 (CO2)",
+        "COval": "일산화탄소 (CO)",
+        "TVOCval": "총휘발성유기화합물 (TVOC)",
+        "NO2val": "이산화질소 (NO2)"
+      },
+      "eAQ2000S": {
+        "pm1p0": "극초미세먼지 (PM 1.0)",
+        "pm2p5": "초미세먼지 (PM 2.5)",
+        "pm10p0": "미세먼지 (PM 10)",
+        "co2": "이산화탄소 (CO2)",
+        "tvoc": "총휘발성유기화합물 (TVOC)",
+        "nh3": "암모니아 (NH3)",
+        "ch4": "메탄 (CH4)"
+      }
+    }
+  },
+  "statistics": {
+    "title": "통계/분석",
+    "datePicker": "날짜 선택",
+    "dateYear": "년",
+    "dateMonth": "월",
+    "dateDay": "일",
+    "dateHour": "시",
+    "dateMin": "분",
+    "dateSec": "초",
+
+    "detail": "상세 지수",
+    
+    "sensor": {
+      "eAQ1100S": {
+        "PM0P1val": "미세부유물 (PM 0.1)",
+        "PM0P3val": "미세부유물 (PM 0.3)",
+        "PM0P5val": "미세부유물 (PM 0.5)",
+        "PM1P0val": "극초미세먼지 (PM 1.0)",
+        "PM2P5val": "초미세먼지 (PM 2.5)",
+        "PM10P0val": "미세먼지 (PM 10)",
+        "CO2val": "이산화탄소 (CO2)",
+        "COval": "일산화탄소 (CO)",
+        "TVOCval": "총휘발성유기화합물 (TVOC)",
+        "NO2val": "이산화질소 (NO2)",
+        "CAIval": "공기질통합지수",
+        "VirusVal": "바이러스위험지수"
+      },
+      "eAQ2000S": {
+        "pm1p0": "극초미세먼지 (PM 1.0)",
+        "pm2p5": "초미세먼지 (PM 2.5)",
+        "pm10p0": "미세먼지 (PM 10)",
+        "co2": "이산화탄소 (CO2)",
+        "tvoc": "총휘발성유기화합물 (TVOC)",
+        "nh3": "암모니아 (NH3)",
+        "ch4": "메탄 (CH4)",
+        "cai": "공기질통합지수",
+        "vrs": "바이러스위험지수"
+      }
+    },
+
+    "applyBtn": "적용"
+  }
+}

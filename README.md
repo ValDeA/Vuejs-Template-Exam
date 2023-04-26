@@ -1,6 +1,8 @@
 # Vuejs-Templete-Exam
  - Templete을 이용한 Vue 프론트 엔드 연습
  - Vue3 + Vite
+ - Doughnut Chart Component 생성
+ - IndexInfo Chart Component 생성
  
  
  
